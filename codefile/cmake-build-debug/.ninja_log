@@ -1,0 +1,6 @@
+# ninja log v6
+2	227	7470307633074620	CMakeFiles/codefile.dir/main.cpp.obj	7a4c7c8e8adfbac6
+3	53	7470306121110235	CMakeFiles/codefile.dir/shixu.cpp.obj	308c3dafd515874c
+11	68	7470298361873644	CMakeFiles/codefile.dir/shixu.c.obj	b967bf51d097b64b
+2	52	7470307706188186	codefile.exe	13322a2ffdb8a3b1
+1	166	7470307731782553	build.ninja	a99e1e95bc6f6a02
