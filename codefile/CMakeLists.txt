@@ -3,4 +3,4 @@ project(codefile)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(codefile shixu.cpp)
+add_executable(codefile thread.cpp)

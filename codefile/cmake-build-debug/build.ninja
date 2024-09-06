@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/github/operating-systems/codefile/cmake-build-debug/
 
 build cmake_object_order_depends_target_codefile: phony || CMakeFiles/codefile.dir
 
-build CMakeFiles/codefile.dir/shixu.cpp.obj: CXX_COMPILER__codefile_unscanned_Debug D$:/github/operating-systems/codefile/shixu.cpp || cmake_object_order_depends_target_codefile
-  DEP_FILE = CMakeFiles\codefile.dir\shixu.cpp.obj.d
+build CMakeFiles/codefile.dir/thread.cpp.obj: CXX_COMPILER__codefile_unscanned_Debug D$:/github/operating-systems/codefile/thread.cpp || cmake_object_order_depends_target_codefile
+  DEP_FILE = CMakeFiles\codefile.dir\thread.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\codefile.dir
   OBJECT_FILE_DIR = CMakeFiles\codefile.dir
@@ -63,7 +63,7 @@ build CMakeFiles/codefile.dir/shixu.cpp.obj: CXX_COMPILER__codefile_unscanned_De
 #############################################
 # Link the executable codefile.exe
 
-build codefile.exe: CXX_EXECUTABLE_LINKER__codefile_Debug CMakeFiles/codefile.dir/shixu.cpp.obj
+build codefile.exe: CXX_EXECUTABLE_LINKER__codefile_Debug CMakeFiles/codefile.dir/thread.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\codefile.dir
