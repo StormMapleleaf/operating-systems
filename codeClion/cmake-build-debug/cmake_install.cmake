@@ -1,4 +1,4 @@
-# Install script for directory: D:/github/operating-systems/codefile
+# Install script for directory: D:/github/operating-systems/codeClion
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/github/operating-systems/codefile/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/github/operating-systems/codeClion/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/github/operating-systems/codefile/cmake-build-debug",
-		"source" : "D:/github/operating-systems/codefile"
+		"build" : "D:/github/operating-systems/codeClion/cmake-build-debug",
+		"source" : "D:/github/operating-systems/codeClion"
 	},
 	"version" : 
 	{

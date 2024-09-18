@@ -1,7 +1,6 @@
 # ninja log v6
-3	53	7470306121110235	CMakeFiles/codefile.dir/shixu.cpp.obj	308c3dafd515874c
-2	227	7470307633074620	CMakeFiles/codefile.dir/main.cpp.obj	7a4c7c8e8adfbac6
 284	331	7473297535427339	codefile.exe	9e16334241e25ea6
-11	68	7470298361873644	CMakeFiles/codefile.dir/shixu.c.obj	b967bf51d097b64b
-9	223	7473970502706988	build.ninja	a99e1e95bc6f6a02
+9	223	7483418452656179	build.ninja	a99e1e95bc6f6a02
 3	283	7473297532627771	CMakeFiles/codefile.dir/thread.cpp.obj	7d24780c4f7fb5b
+4	374	7483418482987525	CMakeFiles/codefile.dir/thread.cpp.obj	6a8744fbaab74cb1
+375	425	7483418486693482	codefile.exe	9e16334241e25ea6
