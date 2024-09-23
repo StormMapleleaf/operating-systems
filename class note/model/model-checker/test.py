@@ -1,5 +1,5 @@
 class Test:
-    tState = 0
+    tState = 1
 
     @thread
     def t1(self):
@@ -21,7 +21,7 @@ class Test:
         
     @marker
     def mark_t2(self, state):
-        if localvar(state, 't2', 'cs'): return 'blue'
+        if localvar(state, 't2', 'cs'): return 'green'
         
     @marker
     def mark_both(self,state):
